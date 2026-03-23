@@ -1,0 +1,6 @@
+test: test/images
+train: train/images
+val: valid/images
+nc: 1 # число классов
+names: ['Donut'] # измените на название класса
+path: /content/donuts-dataset # измените на абсолютный путь до датасета
